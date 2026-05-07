@@ -1,6 +1,4 @@
-import React from "react";
-import { motion } from "motion/react";
-import { PuzzlePiece } from "./PuzzlePiece";
+import { motion } from "framer-motion"import { PuzzlePiece } from "./PuzzlePiece";
 import { LogoIcon } from "./NeooneLogos";
 
 const courses = [

@@ -1,4 +1,3 @@
-import React from "react";
 import { PuzzlePiece } from "./PuzzlePiece";
 import { LogoFull } from "./NeooneLogos";
 
